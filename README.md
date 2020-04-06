@@ -2,7 +2,8 @@
 by Matt Nish-Lapidus  
 April 6, 2020
 
-For a single performer, voice and recording device.
+For a solitary performer.  
+Voice, recording device, digital audio editing software.
 
 1. Draw a floorplan of your home (from memory)
 
