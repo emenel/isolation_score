@@ -1,4 +1,4 @@
-# Numbered Rooms in Isolation
+# Isolation (The Sound of Your Own Voice)
 by Matt Nish-Lapidus
 April 6, 2020
 
