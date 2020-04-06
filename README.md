@@ -1,5 +1,5 @@
 # Isolation (The Sound of Your Own Voice)
-by Matt Nish-Lapidus
+by Matt Nish-Lapidus  
 April 6, 2020
 
 For a single performer, voice and recording device.
