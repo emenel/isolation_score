@@ -11,7 +11,7 @@ Voice, recording device, digital audio editing software.
 
 3. Following your numbered sequence, visit each room (one at a time) and do the following:
     - Start recording
-    - When you are bored (or remember)say the number of the room aloud
+    - When you become bored (or forget what you're doing), say the number of the room aloud
     - Record a little more
     - Stop recording, move to the next room
 
