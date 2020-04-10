@@ -1,6 +1,6 @@
-# Isolation (The Sound of Your Own Voice)
+# Isolation (All The Places I Have Been)
 by Matt Nish-Lapidus  
-April 6, 2020
+April 6, 2020 (Revised Apil 9, 2020)
 
 For a solitary performer.  
 Voice, recording device, digital audio editing software.
@@ -10,9 +10,9 @@ Voice, recording device, digital audio editing software.
 2. Number each room (don't forget utility rooms, bathrooms, closets, etc)
 
 3. Following your numbered sequence, visit each room (one at a time) and do the following:
-    - Record 20-30 seconds of room tone
-    - Say the number of the room aloud
-    - Record 20-30 seconds more of room tone
+    - Start recording
+    - When you are bored (or remember)say the number of the room aloud
+    - Record a little more
     - Stop recording, move to the next room
 
 4. Splice together the recordings, in order of the initial sequence
